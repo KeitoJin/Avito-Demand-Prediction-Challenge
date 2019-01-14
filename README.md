@@ -4,3 +4,5 @@ Avito（ロシアのCtoCオンライン売買プラットフォーム）上の�
 Avito Demand Prediction Challenge<br>
 https://www.kaggle.com/c/avito-demand-prediction<br>
 <br>
+<img src="Avito-Demand-Prediction-Challenge/Images/2.Avito.jpg">
+      
