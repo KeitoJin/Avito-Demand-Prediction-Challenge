@@ -38,8 +38,8 @@ dtypes: float64(3), int64(1), object(14)<br>
 memory usage: 206.5+ MB
 
 ```
-<br>
-欠損値の多い`param_2`、`param_3`は使わない
+
+欠損値の多い`param_2、param_3`は使わない
 他の欠損値の埋めていく<br>
 
 ## 4.
