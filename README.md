@@ -6,8 +6,10 @@ https://www.kaggle.com/c/avito-demand-prediction<br>
 <br>
 <img src="Images/2.Avito.jpg"><br>
 ## 2.分析の流れ <br>
-<img src="Images/3.Avito.jpg">
+<img src="Images/3.Avito.jpg"><br>
+
 ## 3.データの確認 <br>
+
 .info()でデータ内容確認
 <br>
 
