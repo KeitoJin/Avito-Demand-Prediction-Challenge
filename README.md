@@ -34,3 +34,5 @@ image_top_1             1390836 non-null float64<br>
 deal_probability        1503424 non-null float64<br>
 dtypes: float64(3), int64(1), object(14)<br>
 memory usage: 206.5+ MB```
+
+
