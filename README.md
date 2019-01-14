@@ -44,8 +44,9 @@ memory usage: 206.5+ MB
 
 ## 4.データの前処理、特徴量作成 <br>
 <img src="Images/003.jpg"><br>
-
+<img src="Images/004.jpg"><br>
+<img src="Images/005.jpg"><br>
 ## 5.特徴量選択
-
+<img src="Images/006.jpg"><br>
 ## 6.LightGBMモデル作成
 
