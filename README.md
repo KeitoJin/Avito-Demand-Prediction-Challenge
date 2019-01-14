@@ -46,7 +46,12 @@ memory usage: 206.5+ MB
 <img src="Images/003.jpg"><br>
 <img src="Images/004.jpg"><br>
 <img src="Images/005.jpg"><br>
-## 5.特徴量選択
+
+## 5.特徴量選択<br>
+作成した学習データを使ってランダムフォレストにより特徴量の重要度をプロット<br>
 <img src="Images/006.jpg"><br>
+
 ## 6.LightGBMモデル作成
+重要度の低い特徴を削除した学習データをLightGBMに学習させる<br>
+Grid Searchを行いパラメータをチューニング<br>
 
