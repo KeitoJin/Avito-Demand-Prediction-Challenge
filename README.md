@@ -10,10 +10,10 @@ https://www.kaggle.com/c/avito-demand-prediction<br>
 
 ## 3.データの確認 <br>
 
-.info()でデータ内容確認
+`.info()`でデータ内容確認
 <br>
 
-```<class 'pandas.core.frame.DataFrame'><br>
+`<class 'pandas.core.frame.DataFrame'><br>
 RangeIndex: 1503424 entries, 0 to 1503423<br>
 Data columns (total 18 columns):<br>
 item_id                 1503424 non-null object<br>
@@ -35,6 +35,8 @@ image                   1390836 non-null object<br>
 image_top_1             1390836 non-null float64<br>
 deal_probability        1503424 non-null float64<br>
 dtypes: float64(3), int64(1), object(14)<br>
-memory usage: 206.5+ MB```
-
-
+memory usage: 206.5+ MB`
+<br>
+欠損値の多い`param_2`、`param_3`は使わない
+他の欠損値の埋めていく<br>
+## 4.
