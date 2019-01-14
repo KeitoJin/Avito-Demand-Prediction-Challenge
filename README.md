@@ -5,5 +5,5 @@ Avito Demand Prediction Challenge<br>
 https://www.kaggle.com/c/avito-demand-prediction<br>
 <br>
 <img src="Images/2.Avito.jpg"><br>
-### 2.分析の流れ<br>
+### 2.分析の流れ
 <img src="Images/3.Avito.jpg">
